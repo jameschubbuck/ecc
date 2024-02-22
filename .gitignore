@@ -34,3 +34,7 @@ yarn-error.log*
 
 .contentlayer
 .env
+
+# i don't know what i am doing
+bun.lockb
+tsconfig.tsbuildinfo
